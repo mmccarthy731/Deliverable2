@@ -1,0 +1,7 @@
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\bin\Debug\PreWork2.exe.config
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\bin\Debug\PreWork2.exe
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\bin\Debug\PreWork2.pdb
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\obj\Debug\PreWork2.cs.csprojResolveAssemblyReference.cache
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\obj\Debug\PreWork2.cs.csproj.CoreCompileInputs.cache
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\obj\Debug\PreWork2.exe
+C:\Users\mmcca\OneDrive\Documents\Visual Studio 2017\Projects\PreWork2.cs\PreWork2.cs\obj\Debug\PreWork2.pdb
